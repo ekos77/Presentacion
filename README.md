@@ -59,6 +59,10 @@ Con conocimientos en **Python**, **PHP**, **JavaScript** y frameworks modernos p
 
 ---
 
+### 🤝 Si te interesa alguno de mis proyectos  
+
+Puedes contactarte directamente a mis medios de contacto:
+
 ### 📩 Contacto  
 
 💼 **Claudio Seguel A.** — *Ingeniero en Informática*  
@@ -66,5 +70,3 @@ Con conocimientos en **Python**, **PHP**, **JavaScript** y frameworks modernos p
 🌍 [www.claudiodev.cl](https://www.claudiodev.cl)
 
 ---
-
-⭐ *Si alguno de mis proyectos te resulta útil, no olvides dejar una estrella en el repositorio.*
