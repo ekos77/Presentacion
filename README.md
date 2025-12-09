@@ -12,7 +12,7 @@
 Soy **Ingeniero en Informática** con más de **5 años de experiencia** en el desarrollo de soluciones tecnológicas para los sectores **educativo** y **salud**, en instituciones tanto públicas como privadas.  
 Mi trabajo se centra en el **Desarrollo de Software**, **Análisis y Mapeo de Datos**, y la **implementación de sistemas web seguros**, aplicando la **Ley 19.628 sobre Protección de la Vida Privada**.  
 
-Con conocimientos en **Python**, **PHP**, **JavaScript** y frameworks modernos para el desarrollo web full stack.  
+Con conocimientos en **Python**, **PHP**, **JavaScript** y frameworks modernos para el desarrollo web inteligentes.  
 
 ---
 
@@ -20,8 +20,8 @@ Con conocimientos en **Python**, **PHP**, **JavaScript** y frameworks modernos p
 
 | # | Aplicación | Descripción | Enlace |
 |---|-------------|--------------|--------|
-| 1 | 💰 **Presupuesto** | Aplicación web gratuita que ayuda a estudiantes, dueñas de casa y profesionales a administrar sus finanzas personales de manera simple e intuitiva. | 🌎 [claudiodev.cl/presupuesto](https://www.claudiodev.cl/presupuesto/) |
-| 2 | 🌎 **Sismología Comunal** | Sistema que muestra los últimos sismos del día y el más reciente por comuna en Chile. | 🕓 *Próximamente* |
+| 1 | 💰 **Presupuesto** | Aplicación web gratuita que ayuda a estudiantes, dueñ@s de casa y profesionales a administrar sus finanzas personales de manera simple e intuitiva. | 🌎 [claudiodev.cl/presupuesto](https://www.claudiodev.cl/presupuesto/) |
+| 2 | 🌎 **Firmar PDF´s** | Sistema que permite firmar PDF de forma rapida y segura. | 🕓 *Próximamente* |
 
 ---
 
@@ -37,7 +37,8 @@ Con conocimientos en **Python**, **PHP**, **JavaScript** y frameworks modernos p
 - [Bulma](https://bulma.io/)  
 - [Chart.js](https://www.chartjs.org/)  
 - [Pandas](https://pandas.pydata.org/)
-
+- [Leafletjs/GIS]([https://pandas.pydata.org/](https://leafletjs.com/)
+  
 #### 🗄️ Bases de Datos
 - [MySQL](https://www.mysql.com/)
 
