@@ -19,11 +19,12 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
 
 | Proyecto | Descripción | Estado / Enlace |
 | :--- | :--- | :--- |
-| 🏘️ **SIMU** | **Sistema Informático Municipal.** Gestión de incidencias y vinculación entre Juntas de Vecinos y Administración Pública. | `En Despliegue` |
+| 🏘️ **SIMU** | **Sistema Informático Municipal.** Gestión de incidencias y vinculación entre Juntas de Vecinos y Administración Pública. | `Beta Privada` |
 | 🩺 **Sistema IPAE** | Gestión de **Idoneidad Psicolaboral** para el Servicio de Salud Maule. Optimización de procesos para asistentes de la educación. | `Caso de Éxito (Gob)` |
 | 💰 **Cuadrate** | Gestión financiera inteligente para estudiantes y profesionales. Control de presupuestos y flujos de caja. | [🔗 Ver Demo](https://www.claudiodev.cl/presupuesto/) |
 | 🚗 **Estacionamientos** | Sistema modular para el control de acceso y gestión económica de aparcamientos. | `Beta Privada` |
-| 📑 **Firma PDF** | Herramienta ágil para la firma digital de documentos institucionales. | `Próximamente` |
+| 🌐 **RRSS Corporativa** | Red social de entorno empresarial diseñada para mejorar la comunicación interna, el intercambio de conocimientos y la colaboración modular entre equipos de trabajo. | `Beta Privada` |
+| 📑 **Firma PDF** | Herramienta ágil para la firma digital de documentos institucionales. | `Beta Privada` |
 
 ---
 
@@ -54,11 +55,11 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
   <summary>📸 Ver Capturas de Pantalla (Click para desplegar)</summary>
 
   #### **Cuadrate / Presupuesto**
-  ![Dashboard Cuadrate](https://via.placeholder.com/600x300?text=Captura+Dashboard+Financiero)
+  <img src="./screenshots/cuadrate.png" alt="Dashboard Cuadrate" width="600px">
   *Interfaz limpia orientada a la experiencia de usuario (UX).*
 
   #### **SIMU - Vinculación Vecinal**
-  ![Dashboard SIMU](https://via.placeholder.com/600x300?text=Captura+Gestión+Municipal)
+  <img src="./screenshots/simu.png" alt="Dashboard SIMU" width="600px">
   *Módulo de incidencias ciudadanas y reportabilidad regional.*
 </details>
 
