@@ -1,73 +1,75 @@
-# 🌐 Mis Tecnologías  
-## Desarrollador Full Stack  
+# 🌐 Ecosistema de Soluciones Tecnológicas
+## Claudio Seguel A. | Ingeniero en Informática
 
-![Status](https://img.shields.io/badge/Estado-Activo-success?style=flat-square)
-![Perfil](https://img.shields.io/badge/Claudio%20Seguel-Ingeniero%20Informático-blue?style=flat-square)
-![Licencia](https://img.shields.io/badge/Ley%2019628-Protección%20de%20Datos-important?style=flat-square)
-
----
-
-### 🧑‍💻 Sobre mí  
-
-Soy **Ingeniero en Informática** con más de **5 años de experiencia** en el desarrollo de soluciones tecnológicas para los sectores **educativo** y **salud**, en instituciones tanto públicas como privadas.  
-Mi trabajo se centra en el **Desarrollo de Software**, **Análisis y Mapeo de Datos**, y la **implementación de sistemas web seguros**, aplicando la **Ley 19.628 sobre Protección de la Vida Privada**.  
-
-Con conocimientos en **Python**, **PHP**, **JavaScript** y frameworks modernos para el desarrollo web inteligentes.  
+![Status](https://img.shields.io/badge/Estado-Disponible_para_Proyectos-success?style=flat-square)
+![Location](https://img.shields.io/badge/Región-Maule-red?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Full_Stack_PHP_/_Python-blue?style=flat-square)
 
 ---
 
-### 🚀 Aplicaciones Disponibles  
+### 🧑‍💻 Perfil Profesional
 
-| # | Aplicación | Descripción | Enlace |
-|---|-------------|--------------|--------|
-| 1 | 💰 **Presupuesto** | Aplicación web gratuita que ayuda a estudiantes, dueñ@s de casa y profesionales a administrar sus finanzas personales de manera simple e intuitiva. | 🌎 [claudiodev.cl/presupuesto](https://www.claudiodev.cl/presupuesto/) |
-| 2 | 🌎 **Firmar PDF´s** | Sistema que permite firmar PDF de forma rapida y segura. | 🕓 *Próximamente* |
+Ingeniero en Informática con más de **6 años de trayectoria** liderando procesos de transformación digital en los sectores de **Educación** y **Salud Pública**. Especialista en el desarrollo de sistemas modulares, automatización de flujos de trabajo e integración de estándares estatales.
 
----
-
-### 🧠 Tecnologías que Domino  
-
-#### 💻 Lenguajes
-- Python 🐍  
-- PHP 🐘  
-- JavaScript ⚡  
-
-#### 🎨 Frameworks y Librerías
-- [Bootstrap](https://getbootstrap.com/)  
-- [Bulma](https://bulma.io/)  
-- [Chart.js](https://www.chartjs.org/)  
-- [Pandas](https://pandas.pydata.org/)
-- [Leafletjs/GIS]([https://pandas.pydata.org/](https://leafletjs.com/)
-  
-#### 🗄️ Bases de Datos
-- [MySQL](https://www.mysql.com/)
-
-#### ⚙️ Otros
-- API REST / JSON  
-- Control de versiones (Git / SVN)  
-- R, Data Mapping, Web Scraping  
+Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 19.628 de Protección de Datos**), asegurando soluciones escalables, seguras y con alto impacto territorial en la Región del Maule.
 
 ---
 
-### 📘 Conocimientos Destacados  
+### 🚀 Proyectos y Aplicaciones Destacadas
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html5.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+| Proyecto | Descripción | Estado / Enlace |
+| :--- | :--- | :--- |
+| 🏘️ **SIMU** | **Sistema Informático Municipal.** Gestión de incidencias y vinculación entre Juntas de Vecinos y Administración Pública. | `En Despliegue` |
+| 🩺 **Sistema IPAE** | Gestión de **Idoneidad Psicolaboral** para el Servicio de Salud Maule. Optimización de procesos para asistentes de la educación. | `Caso de Éxito (Gob)` |
+| 💰 **Cuadrate** | Gestión financiera inteligente para estudiantes y profesionales. Control de presupuestos y flujos de caja. | [🔗 Ver Demo](https://www.claudiodev.cl/presupuesto/) |
+| 🚗 **Estacionamientos** | Sistema modular para el control de acceso y gestión económica de aparcamientos. | `Beta Privada` |
+| 📑 **Firma PDF** | Herramienta ágil para la firma digital de documentos institucionales. | `Próximamente` |
 
 ---
 
-### 🤝 Si te interesa alguno de mis proyectos  
+### 🛠️ Stack Tecnológico
 
-Puedes contactarte directamente a mis medios de contacto:
+#### **Backend & Datos**
+- **Lenguajes:** PHP (Laravel/MVC), Python (Flask/FastAPI), SQL.
+- **Bases de Datos:** MySQL, PostgreSQL, SQL Server.
+- **Análisis:** Pandas, Data Mapping, Web Scraping, R.
 
-### 📩 Contacto  
+#### **Frontend & UI**
+- **Frameworks:** JavaScript (Vue 3), Bootstrap 5, Bulma.
+- **Visualización:** Chart.js, Leaflet.js (GIS/Mapas).
 
-💼 **Claudio Seguel A.** — *Ingeniero en Informática*  
-📧 [seguel.claudio.a@gmail.com](mailto:seguel.claudio.a@gmail.com)  
-🌍 [www.claudiodev.cl](https://www.claudiodev.cl)
+#### **Infraestructura y Herramientas**
+- **Control de Versiones:** Git / GitHub.
+- **Automatización:** PowerShell, Power Automate (M365).
+- **Entorno:** Linux / Windows Server.
+
+---
+
+### 📘 Galería de Soluciones
+
+> [!IMPORTANT]
+> **Nota sobre Privacidad:** Por razones de seguridad y cumplimiento de la Ley 19.628, las capturas de sistemas gubernamentales (como IPAE) han sido omitidas o anonimizadas.
+
+<details>
+  <summary>📸 Ver Capturas de Pantalla (Click para desplegar)</summary>
+
+  #### **Cuadrate / Presupuesto**
+  ![Dashboard Cuadrate](https://via.placeholder.com/600x300?text=Captura+Dashboard+Financiero)
+  *Interfaz limpia orientada a la experiencia de usuario (UX).*
+
+  #### **SIMU - Vinculación Vecinal**
+  ![Dashboard SIMU](https://via.placeholder.com/600x300?text=Captura+Gestión+Municipal)
+  *Módulo de incidencias ciudadanas y reportabilidad regional.*
+</details>
+
+---
+
+### 🤝 Contacto y Colaboración
+
+Si buscas un perfil técnico con visión de gestión pública y experiencia en el terreno, hablemos:
+
+- 💼 **LinkedIn:** [Tu Perfil Aquí]
+- 📧 **Email:** [seguel.claudio.a@gmail.com](mailto:seguel.claudio.a@gmail.com)
+- 🌍 **Web Personal:** [www.claudiodev.cl](https://www.claudiodev.cl)
 
 ---
