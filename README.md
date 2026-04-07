@@ -24,7 +24,6 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
 | 💰 **Cuadrate** | Gestión financiera inteligente para estudiantes y profesionales. Control de presupuestos y flujos de caja. | [🔗 Ver Demo](https://www.claudiodev.cl/presupuesto/) |
 | 🚗 **Estacionamientos** | Sistema modular para el control de acceso y gestión económica de aparcamientos. | `Beta Privada` |
 | 🌐 **RRSS Corporativa** | Red social de entorno empresarial diseñada para mejorar la comunicación interna, el intercambio de conocimientos y la colaboración modular entre equipos de trabajo. | `Beta Privada` |
-| 📑 **Firma PDF** | Herramienta ágil para la firma digital de documentos institucionales. | `Beta Privada` |
 
 ---
 
