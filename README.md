@@ -21,7 +21,7 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
 | :--- | :--- | :--- |
 | 🏘️ **SIMU** | **Sistema Informático Municipal.** Gestión de incidencias y vinculación entre Juntas de Vecinos y Administración Pública. | `Beta Privada` |
 | 🩺 **Sistema IPAE** | Gestión de **Idoneidad Psicolaboral** para el Servicio de Salud Maule. Optimización de procesos para asistentes de la educación. | `Caso de Éxito (Gob)` |
-| 💰 **Cuadrate** | Gestión financiera inteligente para estudiantes y profesionales. Control de presupuestos y flujos de caja. | [🔗 Ver Demo](https://www.claudiodev.cl/presupuesto/) |
+| 💰 **Cuadrate** | Gestión financiera inteligente para estudiantes y profesionales. Control de presupuestos y flujos de caja. | [🔗 Ver Demo](https://www.claudiodev.cl/presupuesto2/) |
 | 🚗 **Estacionamientos** | Sistema modular para el control de acceso y gestión económica de aparcamientos. | `Beta Privada` |
 | 🌐 **RRSS Corporativa** | Red social de entorno empresarial diseñada para mejorar la comunicación interna, el intercambio de conocimientos y la colaboración modular entre equipos de trabajo. | `Beta Privada` |
 
