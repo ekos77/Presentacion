@@ -54,11 +54,11 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
   <summary>📸 Ver Capturas de Pantalla (Click para desplegar)</summary>
 
   #### **Cuadrate / Presupuesto**
-  <img src="./screenshots/cuadrate.png" alt="Dashboard Cuadrate" width="600px">
+  <img src="./cuadrate.png" alt="Dashboard Cuadrate" width="600px">
   *Interfaz limpia orientada a la experiencia de usuario (UX).*
 
   #### **SIMU - Vinculación Vecinal**
-  <img src="./screenshots/simu.png" alt="Dashboard SIMU" width="600px">
+  <img src="./simu.png" alt="Dashboard SIMU" width="600px">
   *Módulo de incidencias ciudadanas y reportabilidad regional.*
 </details>
 
