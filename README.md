@@ -81,7 +81,6 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
 
 Si buscas un perfil técnico con visión de gestión pública y experiencia en el terreno, hablemos:
 
-- 💼 **LinkedIn:** [Tu Perfil Aquí]
 - 📧 **Email:** [seguel.claudio.a@gmail.com](mailto:seguel.claudio.a@gmail.com)
 - 🌍 **Web Personal:** [www.claudiodev.cl](https://www.claudiodev.cl)
 
