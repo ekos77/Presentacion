@@ -36,19 +36,18 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
 ### 🛠️ Stack Tecnológico
 
 #### **Backend & Datos**
-- **Lenguajes:** PHP (Laravel/MVC), Python (Flask/FastAPI), SQL.
-- **Bases de Datos:** MySQL, PostgreSQL, SQL Server.
+- **Lenguajes:** PHP, Python (Flask/FastAPI), SQL.
+- **Bases de Datos:** MySQL, SQL Server, PostgreSQL y Oracle.
 - **Análisis:** Pandas, Data Mapping, Web Scraping, R.
 
 #### **Frontend & UI**
-- **Frameworks:** JavaScript (Vue 3), Bootstrap 5, Bulma.
+- **Frameworks:** JavaScript, Bootstrap 5, Bulma CSS.
 - **Visualización:** Chart.js, Leaflet.js (GIS/Mapas).
 
 #### **Infraestructura y Herramientas**
 - **Control de Versiones:** Git / GitHub.
 - **Automatización:** PowerShell, Power Automate (M365).
 - **Entorno:** Linux / Windows Server.
-
 ---
 
 ### 📘 Galería de Soluciones
