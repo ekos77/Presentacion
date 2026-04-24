@@ -19,11 +19,16 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
 
 | Proyecto | Descripción | Estado / Enlace |
 | :--- | :--- | :--- |
-| 🏘️ **SIMU** | **Sistema Informático Municipal.** Gestión de incidencias y vinculación entre Juntas de Vecinos y Administración Pública. | `Beta Privada` |
-| 🩺 **Sistema IPAE** | Gestión de **Idoneidad Psicolaboral** para el Servicio de Salud Maule. Optimización de procesos para asistentes de la educación. | `Caso de Éxito (Gob)` |
+| 🏘️ **SIMU** | **Sistema Informático Municipal.** Gestión de incidencias y vinculación entre Juntas de Vecinos y Administración Pública. | `Propiedad Privada` |
+| 🩺 **Sistema IPAE** | Gestión de **Idoneidad Psicolaboral** para el Servicio de Salud Maule. Optimización de procesos para asistentes de la educación. | `En Producción (Gob)` |
+| 🛡️ **Gestión de Decomiso** | Implementación y adaptación regional del sistema de gestión para el Servicio de Salud Maule. Optimización de flujos fiscales y coordinación de servicios de salud regionales. | `En Producción (Gob)` |
+
+| ⚙️ **API Gateway SSMaule** | Desarrollo e implementación de servicios web (API) para la integración y sincronización de datos entre plataformas del Servicio de Salud Maule. | `En Producción (Gob)` |
+
 | 💰 **Cuadrate** | Gestión financiera inteligente para estudiantes y profesionales. Control de presupuestos y flujos de caja. | [🔗 Ver Demo](https://www.claudiodev.cl/presupuesto2/) |
-| 🚗 **Estacionamientos** | Sistema modular para el control de acceso y gestión económica de aparcamientos. | `Beta Privada` |
-| 🌐 **RRSS Corporativa** | Red social de entorno empresarial diseñada para mejorar la comunicación interna, el intercambio de conocimientos y la colaboración modular entre equipos de trabajo. | `Beta Privada` |
+| 🚗 **Estacionamientos** | Sistema modular para el control de acceso y gestión económica de aparcamientos. | `Propiedad Privada` |
+| 🌐 **RRSS Corporativa** | Red social de entorno empresarial diseñada para mejorar la comunicación interna, el intercambio de conocimientos y la colaboración modular entre equipos de trabajo. | `Propiedad Privada` |
+| 🚌 **Geobus** | Sistema de gestión logística para transporte escolar masivo. Incluye geolocalización en tiempo real, optimización de rutas y notificaciones de proximidad. | `Propiedad Privada` |
 
 ---
 
