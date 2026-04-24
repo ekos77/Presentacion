@@ -20,15 +20,16 @@ Mi enfoque combina la eficiencia técnica con el cumplimiento normativo (**Ley 1
 | Proyecto | Descripción | Estado / Enlace |
 | :--- | :--- | :--- |
 | 🏘️ **SIMU** | **Sistema Informático Municipal.** Gestión de incidencias y vinculación entre Juntas de Vecinos y Administración Pública. | `Propiedad Privada` |
-| 🩺 **Sistema IPAE** | Gestión de **Idoneidad Psicolaboral** para el Servicio de Salud Maule. Optimización de procesos para asistentes de la educación. | `En Producción (Gob)` |
-| 🛡️ **Gestión de Decomiso** | Implementación y adaptación regional del sistema de gestión para el Servicio de Salud Maule. Optimización de flujos fiscales y coordinación de servicios de salud regionales. | `En Producción (Gob)` |
-
-| ⚙️ **API Gateway SSMaule** | Desarrollo e implementación de servicios web (API) para la integración y sincronización de datos entre plataformas del Servicio de Salud Maule. | `En Producción (Gob)` |
-
+| 📋 **Sistema IPAE** | Gestión de **Idoneidad Psicolaboral** para el Servicio de Salud Maule. Optimización de procesos para asistentes de la educación. | `En Producción (Gob)` |
+| 🛡️ **Gestión de Decomiso** | Implementación y adaptación regional del sistema de gestión para el **Servicio de Salud Maule**. Optimización de flujos fiscales y procesos sanitarios. | `En Producción (Gob)` |
+| ⚙️ **API SSMaule** | Desarrollo e implementación de **servicios web (API)** para la integración y sincronización de datos entre plataformas del Servicio de Salud. | `En Producción (Gob)` |
+| 🚌 **GeoBus** | Sistema de gestión logística para **transporte escolar masivo**. Incluye geolocalización en tiempo real, rutas y notificaciones de proximidad. | `Propiedad Privada` |
 | 💰 **Cuadrate** | Gestión financiera inteligente para estudiantes y profesionales. Control de presupuestos y flujos de caja. | [🔗 Ver Demo](https://www.claudiodev.cl/presupuesto2/) |
 | 🚗 **Estacionamientos** | Sistema modular para el control de acceso y gestión económica de aparcamientos. | `Propiedad Privada` |
-| 🌐 **RRSS Corporativa** | Red social de entorno empresarial diseñada para mejorar la comunicación interna, el intercambio de conocimientos y la colaboración modular entre equipos de trabajo. | `Propiedad Privada` |
-| 🚌 **Geobus** | Sistema de gestión logística para transporte escolar masivo. Incluye geolocalización en tiempo real, optimización de rutas y notificaciones de proximidad. | `Propiedad Privada` |
+| 🌐 **RRSS Corporativa** | Red social empresarial diseñada para mejorar la comunicación interna y la colaboración modular entre equipos. | `Propiedad Privada` |
+
+> [!IMPORTANT]
+> **Nota sobre privacidad:** Los proyectos marcados como `Propiedad Privada` contienen lógica de negocio sensible y contratos de exclusividad. El acceso al código fuente está restringido, pero se pueden solicitar demostraciones funcionales.
 
 ---
 
